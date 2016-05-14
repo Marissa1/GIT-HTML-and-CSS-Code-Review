@@ -1,8 +1,9 @@
 .row{
-  background: #99ffcc;
+  background: #800060;
   border: 2px solid #0099ff;
   padding: 5px;
   margin: 10px;
+  color: #cccccc;
 }
 
 img{
@@ -13,7 +14,7 @@ img{
 h1{
   float: none;
   font-weight: bolder;
-  color: #007acc;
+  color: #800060;
   margin: 20px;
   font-size: 50px;
 }
