@@ -1,6 +1,6 @@
-author name
-project or program name
-description of program
-program setup instructions
+Author: Marissa Siegel
+Code Review 1
+This contains a webpage about me
+program set-up: click link
 link to site on GitHub Pages
-copyright and license information
+copyright Marissa Siegel, company Awesome
